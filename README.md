@@ -6,7 +6,7 @@ Here I've built a weather web app that tells today's weather and temperature, an
 
 ---
 
-## What I learned 🧠
+## Questions answered and techniques used
 
 - What an API is and how to use it
 - Basic JSON
@@ -40,7 +40,7 @@ Here I changed city and amount of days.
 
 I used a hero picture with a shadow to make it look good and welcoming!
 
-## Requirements I reached 🧪
+## Requirements reached 🧪
 
 - To fetch data from the API using fetch() in JavaScript 
 - Name of city, current tempereature and weather conditions and the forecast. 
