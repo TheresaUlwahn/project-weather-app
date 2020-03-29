@@ -39,4 +39,4 @@ I used a hero picture with a shadow to make it look good and welcoming!
 
 ## View it live
 
-See the site here: https://mrsucodesproject6themiamiweatherapp.netlify.com/?
+https://mrsucodesproject6themiamiweatherapp.netlify.com/?
