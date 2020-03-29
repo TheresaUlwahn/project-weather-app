@@ -1,7 +1,5 @@
 ## The Weather Web App :sunny: 
 
-See the site here: https://mrsucodesproject6themiamiweatherapp.netlify.com/?
-
 Here I've built a weather web app that tells today's weather and temperature, and a weekly forecast using a weather API - in Miami!! :sunny:
 
 ---
@@ -46,4 +44,6 @@ I used a hero picture with a shadow to make it look good and welcoming!
 - Name of city, current tempereature and weather conditions and the forecast. 
 - The page works on mobile (mobile first!), tablet and desktop (Is responsive)- 
 
+## View it live
 
+See the site here: https://mrsucodesproject6themiamiweatherapp.netlify.com/?
